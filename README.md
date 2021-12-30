@@ -5,6 +5,7 @@
    - XAMPP
 
 # 데이터베이스
+![image](https://user-images.githubusercontent.com/93318468/147737251-c594d660-05f2-421f-b9dc-4fa0092611c7.png)
 
 # 화면 구현
 # (1) 로그인 화면
